@@ -1,0 +1,9 @@
+ARO_ID	Gene_Name	AMR_Gene_Family	Drug_Class	Resistance_Mechanism
+ARO:3000791	mdsC	resistance-nodulation-cell division (RND) antibiotic efflux pump	carbapenem;cephalosporin;cephamycin;monobactam;penam;penem;phenicol antibiotic	antibiotic efflux
+ARO:3000790	mdsB	resistance-nodulation-cell division (RND) antibiotic efflux pump	carbapenem;cephalosporin;cephamycin;monobactam;penam;penem;phenicol antibiotic	antibiotic efflux
+ARO:3000789	mdsA	resistance-nodulation-cell division (RND) antibiotic efflux pump	carbapenem;cephalosporin;cephamycin;monobactam;penam;penem;phenicol antibiotic	antibiotic efflux
+ARO:3000504	golS	resistance-nodulation-cell division (RND) antibiotic efflux pump	carbapenem;cephalosporin;cephamycin;monobactam;penam;penem;phenicol antibiotic	antibiotic efflux
+ARO:3002571	AAC(6')-Iaa	AAC(6')	aminoglycoside antibiotic	antibiotic inactivation
+ARO:3002569	AAC(6')-Iy	AAC(6')	aminoglycoside antibiotic	antibiotic inactivation
+ARO:3000826	sdiA	resistance-nodulation-cell division (RND) antibiotic efflux pump	cephalosporin;disinfecting agents and antiseptics;fluoroquinolone antibiotic;glycylcycline;penam;phenicol antibiotic;rifamycin antibiotic;tetracycline antibiotic	antibiotic efflux
+ARO:3001327	MdtK	multidrug and toxic compound extrusion (MATE) transporter	fluoroquinolone antibiotic	antibiotic efflux
